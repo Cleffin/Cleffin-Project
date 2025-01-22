@@ -84,6 +84,5 @@
     },
     "registeredAt": "2025-01-22T17:26:44.974Z",
     "registeredBy": "arn:aws:sts::026065237529:assumed-role/voclabs/user3514449=Cleffin_Cleatus",
-    "enableFaultInjection": false,
     "tags": []
 }
